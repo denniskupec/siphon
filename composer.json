@@ -1,0 +1,21 @@
+{
+    "name": "denniskupec/siphon",
+    "description": "Steam powered data mining",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1",
+        "league/climate": "^3.2",
+        "symfony/serializer": "^2.7",
+        "symfony/property-access": "^2.7",
+        "doctrine/cache": "^1.5",
+        "nesbot/carbon": "^1.21"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Kupec",
+            "email": "denniskupec@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
